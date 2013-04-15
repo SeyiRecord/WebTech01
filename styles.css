@@ -1,0 +1,113 @@
+*{
+	margin: 0; padding: 0;
+}
+
+body {
+	background: url("images/Bg.png")no-repeat center center fixed;
+	background-size: 100%; 
+        background-repeat: no-repeat;
+        -webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background-color: #191970; font-family: sans-serif; font-size: 14px
+	}
+
+
+#proc {
+	background-image:url("images/proctab.png"); height: 40px;
+	font-family: Verdana; color: green; font-size: 30px;
+}
+
+.top {
+	background-image:url("images/topbg.jpg"); height: 35px; width: 960px;
+	font-family: Verdana; color: green; font-size: 30px;
+}
+
+
+
+.navbar {
+	position: relative; float: left; width: 140px; height: 25px;font-size: 20px; background-color: #C0C0C0; color: #ffffff;
+	text-align: center; border-top-right-radius:20px; margin-right:1px; padding: 5px; 
+}
+
+.banner{
+	background-image:url("images/banner_bg.png"); height: 200px;
+	font-family: Verdana; color: #F0E68C; font-size: 26px;
+}
+
+div.content {background-color:white;}
+div.contentBox {
+margin-top: 5px; position: relative; background-color:white; border-radius: 5px;
+}
+
+div.main {
+background-color: #d3e8f2
+}
+
+div.footer {color:blue; position:relative; height:100px; }
+#footer {background: url("images/footer_bg.png")no-repeat center center fixed; width:100%; height:50px;
+background-size: 100%; background-repeat: no-repeat; -webkit-background-size: cover; -moz-background-size: cover;
+-o-background-size: cover; background-size: cover; 
+color:white;text-align:right; vertical-align: bottom; position: relative; bottom:0px; font-size:20px;}
+
+#footer2 {background-color:white; color:red; text-align:left; position:relative; bottom:0px; height: 20px; border-radius: 5px; }
+
+a:link    {color:blue;}
+a:visited {color:red; }
+a:hover   {color:yellow; background-color:black;}
+a:active  {color:yellow;}
+
+h1 {color:teal; font-size:40px; text-align:left}
+h2 {color:blue; font-size:30px; }
+h3 {color:peachpuff; font-size:25px;}
+h4 {color:greenyellow; font-size:20px;} 
+h5 {color:red;font-family:"Times New Roman",Times,serif; font-size:18px; font-style:normal}
+p {color:navy; font-family:"Times New Roman"; font-size: 18px; margin-left:20px;}
+
+
+/* Junk codes follow here
+  div.navigation {
+position: relative; float: left; height: 30px; padding-top: 10px; padding-right: 10px; padding-left: 10px; font-size: 20px; color: #ffffff;
+}
+div.top p {
+	color: #ffffff;
+}
+/*div.bannerBox {
+margin-top: 15px; background-color: mintcream; position: relative; border-radius: 5px;
+}
+div.proc {
+	background: url("images/proctab.png")no-repeat center center fixed; width:100%; height:40px;
+	background-size: 100%; 
+        background-repeat: no-repeat;
+        -webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	font-family: Verdana; color: green; font-size: 30px;
+	}
+div.banner {
+	background: url("images/banner_bg.png")no-repeat center center fixed; width:100%; height:200px;
+	background-size: 100%; 
+        background-repeat: no-repeat;
+        -webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover; 
+	font-family: Verdana; color: #F0E68C; font-size: 26px;
+	}
+
+div.top {
+	background: url("images/footer_bg.png")no-repeat center center fixed; width:100%; height:40px;
+	background-size: 100%; 
+        background-repeat: no-repeat;
+        -webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	font-family: Verdana; color: green; font-size: 30px;
+	}
+	
+  
+  
+*/
