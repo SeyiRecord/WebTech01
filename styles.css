@@ -14,7 +14,7 @@ body {
 	}
 
 
-#proc {
+.proc {
 	background-image:url("images/proctab.png"); height: 40px;
 	font-family: Verdana; color: green; font-size: 30px;
 }
@@ -32,8 +32,8 @@ body {
 }
 
 .banner{
-	background-image:url("images/banner_bg.png"); height: 200px;
-	font-family: Verdana; color: #F0E68C; font-size: 26px;
+	background-image:url("images/footer_bg.png"); height: 200px;
+	font-family: Verdana; color: #FFFF00; font-size: 28px; text-align: center;
 }
 
 div.content {background-color:white;}
